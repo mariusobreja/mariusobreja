@@ -5,8 +5,8 @@ I'm a Full Stack Developer, always in love with a new challenge and a relentless
 ## I'm a Developer, Husband, Father, and Football Coach!!
 
 - 🔭 I am in a continous research and I will probably never stop reading articles, watching tutorials and learning!
-- 🌱 I can't say no to a challenge, the bigger and difficult it is, the more it intrigues me.
-- 👯 I have currently worked on my own project [Players-Bazaar][Players-Bazaar] and on [Adventour][Adventour]with another 3 developers and I've loved every second of it so ... I’m looking to collaborate with other content creators.
+- 🌱 I can't say "no" to a challenge, the bigger and difficult it is, the more it intrigues me.
+- 👯 I have currently worked on my own project [Players-Bazaar][Players-Bazaar] and on [Adventour][Adventour] with another 3 developers and I've loved every second of it so ... I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects, find a place where my creativity, energy, enthusiam and team-work skills provide a valuable asset.
 - ⚡ Fun fact: I love football, sports and being outdoor in general, I am a licensed football coach as a hobby. I love travelling and trying out new culinary experiences.
 
