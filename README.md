@@ -6,15 +6,15 @@ I'm a Full Stack Developer, always in love with a new challenge and a relentless
 
 - 🔭 I am in a continous research and I will probably never stop reading articles, watching tutorials and learning!
 - 🌱 I can't say no to a challenge, the bigger and difficult it is, the more it intrigues me.
-- 👯 I have currently worked on Adventour with another 3 developers and I've loved every second of it so ... I’m looking to collaborate with other content creators.
+- 👯 I have currently worked on my own project [Players-Bazaar][Players-Bazaar] and on [Adventour][Adventour]with another 3 developers and I've loved every second of it so ... I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects, find a place where my creativity, energy, enthusiam and team-work skills provide a valuable asset.
 - ⚡ Fun fact: I love football, sports and being outdoor in general, I am a licensed football coach as a hobby. I love travelling and trying out new culinary experiences.
 
 ### Connect with me:
 
-[<img align="left" alt="mariusobreja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mariusobreja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mariusobreja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mariusobreja | Twitter" width="22px" src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" />][twitter]
+[<img align="left" alt="mariusobreja | LinkedIn" width="22px" src="https://www.jet.org.za/contact/color-of-the-linkedin-logo.jpg/@@images/image" />][linkedin]
+[<img align="left" alt="mariusobreja | Instagram" width="22px" src="https://i.dlpng.com/static/png/5526797-instagram-logo-png-transparent-background-hd-instagram-icon-free-instagram-logo-transparent-background-920_748_preview.png" />][instagram]
 
 <br />
 
@@ -43,15 +43,8 @@ I'm a Full Stack Developer, always in love with a new challenge and a relentless
 
 ---
 
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Marius Obreja's GitHub Stats" src="https://github-readme-stats.mariusobreja.vercel.app/api?username=mariusobreja&show_icons=true&hide_border=true" />
-
-</details>
-
+[Players-Bazaar]: https://github.com/mariusobreja/Players-Bazaar
+[Adventour]: https://github.com/jah-edw/Adventour-Frontend
 [github]: https://github.com/
 [git]: https://git-scm.com/
 [mongodb]: https://www.mongodb.com/
