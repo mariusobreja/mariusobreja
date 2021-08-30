@@ -41,6 +41,10 @@ I'm a Full Stack Developer, always in love with a new challenge and a relentless
 <br />
 <br />
 
+📲Checkout my Github stats 😊 <br>
+
+![mariusobreja's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariusobreja&count_private=true&show_icons=true&theme=radical)
+
 ---
 
 [Players-Bazaar]: https://github.com/mariusobreja/Players-Bazaar
